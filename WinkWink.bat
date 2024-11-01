@@ -1,4 +1,4 @@
 @echo off
-cd C:\Users\Nathan Winkler\Desktop\WinkWink-Local\winkwink-scraper
+cd C:\"Insert your directory here"
 node server.js
 pause
