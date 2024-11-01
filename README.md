@@ -25,4 +25,4 @@ This local server enables the Google scraping functionality required by the Wink
 
 ---
 
-Happy scraping!
+Happy Studying!
